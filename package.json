@@ -1,0 +1,19 @@
+{
+  "name": "your-first-test-node-package",
+  "version": "0.0.0",
+  "description": "My first test node package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Panger95/your-first-test-node-package.git"
+  },
+  "author": "Andrew Pang <pang.134@osu.edu>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Panger95/your-first-test-node-package/issues"
+  },
+  "homepage": "https://github.com/Panger95/your-first-test-node-package#readme"
+}
