@@ -1,6 +1,6 @@
 {
   "name": "your-first-test-node-package",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "My first test node package",
   "main": "index.js",
   "scripts": {
